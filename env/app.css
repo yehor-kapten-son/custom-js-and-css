@@ -1,0 +1,15 @@
+.env {
+    text-align: center;
+}
+
+.staging {
+    color: green;
+}
+
+.prod {
+    color: red;
+}
+
+.local {
+    color: black;
+}
